@@ -1,0 +1,20 @@
+[
+  {
+    "id": "quick",
+    "label": "快手出餐",
+    "description": "约 20 分钟内可出锅；步骤少、技法基础；适合一人食或赶时间。",
+    "maxMinutesHint": 25
+  },
+  {
+    "id": "home",
+    "label": "家常小炒",
+    "description": "20–45 分钟；常见炒、焖、煮；火候与调味需注意但不过于复杂。",
+    "maxMinutesHint": 45
+  },
+  {
+    "id": "pro",
+    "label": "进阶技法",
+    "description": "可能需要分段加热、挂糊/油温控制、复炸、先炒后炖等多段流程。",
+    "maxMinutesHint": 90
+  }
+]

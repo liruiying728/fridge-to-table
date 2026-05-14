@@ -1,0 +1,366 @@
+[
+  {
+    "id": "salt",
+    "name": "盐",
+    "emoji": "🧂",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "sugar",
+    "name": "白糖",
+    "emoji": "🍚",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "rock_sugar",
+    "name": "冰糖",
+    "emoji": "🧊",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "honey",
+    "name": "蜂蜜",
+    "emoji": "🍯",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "vinegar_dark",
+    "name": "陈醋",
+    "emoji": "🫗",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "vinegar_white",
+    "name": "白醋",
+    "emoji": "🫗",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "cooking_wine",
+    "name": "料酒",
+    "emoji": "🍶",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "shaoxing_wine",
+    "name": "黄酒/绍酒",
+    "emoji": "🍶",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "chicken_powder",
+    "name": "鸡精/味精",
+    "emoji": "✨",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "starch",
+    "name": "淀粉/生粉",
+    "emoji": "🌾",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "flour",
+    "name": "面粉",
+    "emoji": "🌾",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "white_pepper",
+    "name": "白胡椒粉",
+    "emoji": "🤍",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "black_pepper",
+    "name": "黑胡椒粉",
+    "emoji": "🖤",
+    "category": "基础调味",
+    "source": 0
+  },
+  {
+    "id": "soy_sauce_light",
+    "name": "生抽",
+    "emoji": "🫙",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "soy_sauce_dark",
+    "name": "老抽",
+    "emoji": "🫙",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "oyster_sauce",
+    "name": "蚝油",
+    "emoji": "🦪",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "doubanjiang",
+    "name": "豆瓣酱",
+    "emoji": "🌶️",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "chili_sauce",
+    "name": "辣椒酱/老干妈",
+    "emoji": "🌶️",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "douchi",
+    "name": "豆豉",
+    "emoji": "⚫",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "sweet_flour_paste",
+    "name": "甜面酱",
+    "emoji": "🟫",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "yellow_soybean_paste",
+    "name": "黄豆酱/大酱",
+    "emoji": "🟫",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "hoisin_sauce",
+    "name": "海鲜酱",
+    "emoji": "🟫",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "sesame_paste",
+    "name": "芝麻酱",
+    "emoji": "🟤",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "shacha_sauce",
+    "name": "沙茶酱",
+    "emoji": "🟫",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "pungpu_sauce",
+    "name": "普宁豆酱",
+    "emoji": "🟡",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "tomato_paste",
+    "name": "番茄酱",
+    "emoji": "🍅",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "fermented_tofu",
+    "name": "腐乳",
+    "emoji": "🟥",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "fish_sauce",
+    "name": "鱼露",
+    "emoji": "🐟",
+    "category": "酱类",
+    "source": 0
+  },
+  {
+    "id": "chili_oil",
+    "name": "辣椒油/红油",
+    "emoji": "🌶️",
+    "category": "香辣",
+    "source": 0
+  },
+  {
+    "id": "chili_flakes",
+    "name": "辣椒粉/辣椒面",
+    "emoji": "🌶️",
+    "category": "香辣",
+    "source": 0
+  },
+  {
+    "id": "dried_chili",
+    "name": "干辣椒",
+    "emoji": "🌶️",
+    "category": "香辣",
+    "source": 0
+  },
+  {
+    "id": "fresh_chili",
+    "name": "鲜辣椒/小米椒",
+    "emoji": "🌶️",
+    "category": "香辣",
+    "source": 0
+  },
+  {
+    "id": "peppercorn",
+    "name": "花椒",
+    "emoji": "🟤",
+    "category": "香辣",
+    "source": 0
+  },
+  {
+    "id": "peppercorn_oil",
+    "name": "花椒油",
+    "emoji": "🟤",
+    "category": "香辣",
+    "source": 0
+  },
+  {
+    "id": "sesame_oil",
+    "name": "香油/芝麻油",
+    "emoji": "🫙",
+    "category": "香油",
+    "source": 0
+  },
+  {
+    "id": "cooking_oil",
+    "name": "食用油",
+    "emoji": "🫙",
+    "category": "香油",
+    "source": 0
+  },
+  {
+    "id": "lard",
+    "name": "猪油",
+    "emoji": "🥣",
+    "category": "香油",
+    "source": 0
+  },
+  {
+    "id": "star_anise",
+    "name": "八角",
+    "emoji": "⭐",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "cinnamon",
+    "name": "桂皮",
+    "emoji": "🟫",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "bay_leaf",
+    "name": "香叶",
+    "emoji": "🍃",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "cumin",
+    "name": "小茴香/孜然",
+    "emoji": "🌿",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "tsao_ko",
+    "name": "草果",
+    "emoji": "🟤",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "five_spice",
+    "name": "五香粉",
+    "emoji": "🌿",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "thirteen_spice",
+    "name": "十三香",
+    "emoji": "🌿",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "galangal",
+    "name": "南姜",
+    "emoji": "🫚",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "dried_tangerine",
+    "name": "陈皮",
+    "emoji": "🟠",
+    "category": "干香料",
+    "source": 0
+  },
+  {
+    "id": "garlic",
+    "name": "大蒜",
+    "emoji": "🧄",
+    "category": "辛香",
+    "source": 0
+  },
+  {
+    "id": "ginger",
+    "name": "姜",
+    "emoji": "🫚",
+    "category": "辛香",
+    "source": 0
+  },
+  {
+    "id": "green_onion",
+    "name": "小葱",
+    "emoji": "🌿",
+    "category": "辛香",
+    "source": 0
+  },
+  {
+    "id": "scallion",
+    "name": "大葱",
+    "emoji": "🌿",
+    "category": "辛香",
+    "source": 0
+  },
+  {
+    "id": "coriander",
+    "name": "香菜",
+    "emoji": "🌿",
+    "category": "辛香",
+    "source": 0
+  },
+  {
+    "id": "shallot",
+    "name": "干葱头",
+    "emoji": "🧅",
+    "category": "辛香",
+    "source": 0
+  }
+]

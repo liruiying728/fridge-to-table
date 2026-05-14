@@ -1,0 +1,25 @@
+# Dependencies & build
+node_modules
+dist
+
+# Environment — 勿提交真实密钥；模板见 .env.example
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tooling / cache
+.vite
+*.tsbuildinfo
+
+# IDE（按需删除本段若你希望提交团队统一配置）
+.idea

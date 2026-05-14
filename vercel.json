@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/recipes/generate.ts": {
+      "includeFiles": "data/**,config/**",
+      "maxDuration": 60
+    },
+    "api/recipes/simplify.ts": {
+      "includeFiles": "data/**,config/**",
+      "maxDuration": 60
+    }
+  }
+}

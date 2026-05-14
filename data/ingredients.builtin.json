@@ -1,0 +1,450 @@
+[
+  {
+    "id": "spinach",
+    "name": "菠菜",
+    "emoji": "🥬",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "chives",
+    "name": "韭菜",
+    "emoji": "🌿",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "cucumber",
+    "name": "黄瓜",
+    "emoji": "🥒",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "broccoli",
+    "name": "西兰花",
+    "emoji": "🥦",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "green_bean",
+    "name": "豆角",
+    "emoji": "🫘",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "celery",
+    "name": "芹菜",
+    "emoji": "🌿",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "pumpkin",
+    "name": "南瓜",
+    "emoji": "🎃",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "winter_melon",
+    "name": "冬瓜",
+    "emoji": "🟩",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "bitter_melon",
+    "name": "苦瓜",
+    "emoji": "🥒",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "lotus_root",
+    "name": "莲藕",
+    "emoji": "🪷",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "zucchini",
+    "name": "西葫芦",
+    "emoji": "🥬",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "lettuce",
+    "name": "生菜",
+    "emoji": "🥗",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "corn",
+    "name": "玉米",
+    "emoji": "🌽",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "taro",
+    "name": "芋头",
+    "emoji": "🥔",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "sweet_potato",
+    "name": "红薯",
+    "emoji": "🍠",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "snow_pea",
+    "name": "荷兰豆",
+    "emoji": "🫛",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "garden_pea",
+    "name": "豌豆",
+    "emoji": "🟢",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "water_spinach",
+    "name": "空心菜",
+    "emoji": "🌿",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "tomato",
+    "name": "西红柿",
+    "emoji": "🍅",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "potato",
+    "name": "土豆",
+    "emoji": "🥔",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "eggplant",
+    "name": "茄子",
+    "emoji": "🍆",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "green_pepper",
+    "name": "青椒",
+    "emoji": "🫑",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "onion",
+    "name": "洋葱",
+    "emoji": "🧅",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "carrot",
+    "name": "胡萝卜",
+    "emoji": "🥕",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "napa_cabbage",
+    "name": "大白菜",
+    "emoji": "🥬",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "green_cabbage",
+    "name": "包菜/卷心菜",
+    "emoji": "🥬",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "bok_choy",
+    "name": "油菜/小白菜",
+    "emoji": "🥬",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "daikon",
+    "name": "白萝卜",
+    "emoji": "🌝",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "garlic_sprout",
+    "name": "蒜苗/蒜苔",
+    "emoji": "🌿",
+    "category": "蔬菜",
+    "source": 0
+  },
+  {
+    "id": "pork_belly",
+    "name": "猪五花",
+    "emoji": "🥩",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "pork_ribs",
+    "name": "猪排骨",
+    "emoji": "🍖",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "pork_loin",
+    "name": "猪里脊",
+    "emoji": "🥩",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "pork_liver",
+    "name": "猪肝",
+    "emoji": "🫀",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "pork_minced",
+    "name": "猪肉末",
+    "emoji": "🥩",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "beef",
+    "name": "牛肉",
+    "emoji": "🥩",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "chicken_breast",
+    "name": "鸡胸肉",
+    "emoji": "🍗",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "chicken_leg",
+    "name": "鸡腿",
+    "emoji": "🍗",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "chicken_wing",
+    "name": "鸡翅",
+    "emoji": "🍗",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "duck",
+    "name": "鸭肉",
+    "emoji": "🦆",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "lamb",
+    "name": "羊肉",
+    "emoji": "🐑",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "sausage",
+    "name": "香肠/腊肠",
+    "emoji": "🌭",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "bacon_cn",
+    "name": "腊肉",
+    "emoji": "🥓",
+    "category": "肉",
+    "source": 0
+  },
+  {
+    "id": "shrimp",
+    "name": "虾",
+    "emoji": "🦐",
+    "category": "海鲜",
+    "source": 0
+  },
+  {
+    "id": "fish",
+    "name": "鱼",
+    "emoji": "🐟",
+    "category": "海鲜",
+    "source": 0
+  },
+  {
+    "id": "clam",
+    "name": "花蛤/蛤蜊",
+    "emoji": "🦪",
+    "category": "海鲜",
+    "source": 0
+  },
+  {
+    "id": "squid",
+    "name": "鱿鱼",
+    "emoji": "🦑",
+    "category": "海鲜",
+    "source": 0
+  },
+  {
+    "id": "crab",
+    "name": "螃蟹",
+    "emoji": "🦀",
+    "category": "海鲜",
+    "source": 0
+  },
+  {
+    "id": "dried_shrimp",
+    "name": "虾皮/干虾",
+    "emoji": "🦐",
+    "category": "海鲜",
+    "source": 0
+  },
+  {
+    "id": "egg",
+    "name": "鸡蛋",
+    "emoji": "🥚",
+    "category": "蛋奶",
+    "source": 0
+  },
+  {
+    "id": "duck_egg",
+    "name": "鸭蛋/咸蛋",
+    "emoji": "🥚",
+    "category": "蛋奶",
+    "source": 0
+  },
+  {
+    "id": "soft_tofu",
+    "name": "豆腐",
+    "emoji": "⬜",
+    "category": "豆制品",
+    "source": 0
+  },
+  {
+    "id": "firm_tofu",
+    "name": "豆腐干",
+    "emoji": "🟫",
+    "category": "豆制品",
+    "source": 0
+  },
+  {
+    "id": "tofu_skin",
+    "name": "腐竹/豆皮",
+    "emoji": "🟨",
+    "category": "豆制品",
+    "source": 0
+  },
+  {
+    "id": "edamame",
+    "name": "毛豆",
+    "emoji": "🫘",
+    "category": "豆制品",
+    "source": 0
+  },
+  {
+    "id": "enoki",
+    "name": "金针菇",
+    "emoji": "🍄",
+    "category": "菌菇",
+    "source": 0
+  },
+  {
+    "id": "oyster_mushroom",
+    "name": "平菇",
+    "emoji": "🍄",
+    "category": "菌菇",
+    "source": 0
+  },
+  {
+    "id": "crab_mushroom",
+    "name": "蟹味菇",
+    "emoji": "🍄",
+    "category": "菌菇",
+    "source": 0
+  },
+  {
+    "id": "king_oyster",
+    "name": "杏鲍菇",
+    "emoji": "🍄",
+    "category": "菌菇",
+    "source": 0
+  },
+  {
+    "id": "fresh_shiitake",
+    "name": "鲜香菇",
+    "emoji": "🍄",
+    "category": "菌菇",
+    "source": 0
+  },
+  {
+    "id": "black_fungus",
+    "name": "木耳",
+    "emoji": "🍄",
+    "category": "干货",
+    "source": 0
+  },
+  {
+    "id": "dried_shiitake",
+    "name": "干香菇",
+    "emoji": "🍄",
+    "category": "干货",
+    "source": 0
+  },
+  {
+    "id": "lily_bud",
+    "name": "黄花菜",
+    "emoji": "🌼",
+    "category": "干货",
+    "source": 0
+  },
+  {
+    "id": "glass_noodle",
+    "name": "粉丝/粉条",
+    "emoji": "🍜",
+    "category": "干货",
+    "source": 0
+  },
+  {
+    "id": "dried_tofu_knot",
+    "name": "千张/百叶结",
+    "emoji": "🟨",
+    "category": "干货",
+    "source": 0
+  }
+]
