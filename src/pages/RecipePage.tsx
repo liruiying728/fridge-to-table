@@ -72,7 +72,7 @@ export default function RecipePage() {
     try {
       upsertFavoriteInStorage(recipe);
       setFavIds((p) => new Set(p).add(recipe.id));
-      setDialog({ message: "已加入收藏夹", variant: "success" });
+      setDialog({ message: "已把这道菜谱加入收藏夹", variant: "success" });
     } catch (e) {
       setDialog({
         message: e instanceof Error ? e.message : "收藏失败",
@@ -90,7 +90,7 @@ export default function RecipePage() {
         n.delete(recipe.id);
         return n;
       });
-      setDialog({ message: "已从收藏中移除", variant: "success" });
+      setDialog({ message: "已经取消收藏这道菜谱了", variant: "success" });
     } catch (e) {
       setDialog({
         message: e instanceof Error ? e.message : "取消收藏失败",
@@ -126,7 +126,7 @@ export default function RecipePage() {
           variant: "success",
         });
       } else {
-        setDialog({ message: "已在当前最简单档位里再精简步骤，请看新版。", variant: "success" });
+        setDialog({ message: "当前已经是最简单的一版菜谱了，再设计更简单的……臣妾做不到啊。", variant: "success" });
       }
     } catch (e) {
       setDialog({

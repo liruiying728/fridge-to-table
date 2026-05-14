@@ -58,7 +58,7 @@ export default function FavoritesPage() {
 
       <section>
         {favorites.length === 0 ? (
-          <div className="card empty">还没有收藏，先在「冰箱中的食材」里选好食材做第一道菜吧～</div>
+          <div className="card empty">还没有菜谱呢，生成第一道菜后才可以收藏</div>
         ) : (
           <div className="fav-grid">
             {favorites.map((r) => (

@@ -18,7 +18,7 @@ export default function UnfavoriteConfirmModal({
   return (
     <ConfirmModal
       open={open}
-      message={`确定不继续收藏「${recipeTitle}」了吗？`}
+      message={`不收藏「${recipeTitle}」了吗？`}
       cancelLabel="保留"
       confirmLabel="取消收藏"
       onCancel={onCancel}
