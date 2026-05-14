@@ -1,6 +1,16 @@
 # Fridge to Table
 
-从「冰箱里现有食材」出发，用 AI 生成可执行的家常菜谱：勾选主料与调味料、选择口味与难度，一次性得到多道不同搭配的菜谱；菜谱页可收藏、可请求简化版。
+## 这是什么
+
+打开冰箱，有点东西，但不知道做什么——Fridge to Table 帮你解决这个问题。
+
+勾选冰箱里现有的食材和调味料，选好口味偏好和难易程度，AI 给你生成几道能做的菜谱。觉得太难？可以让它再出一个更简单的版本。
+
+## 适合谁用
+
+- 会一点厨艺，但每次面对冰箱都要发呆五分钟
+- 不缺食材，缺的是「做什么」的主意
+- 选择困难，需要有人替你拍板
 
 ## 技术栈
 
@@ -22,13 +32,6 @@ cp .env.example .env.local
 npm run dev
 ```
 
-默认：
-
-- 前端：http://localhost:5173  
-- API：http://127.0.0.1:8787（`PORT` 可改）
-
-开发模式下 Vite 会把 `/api` 代理到后端。
-
 ## 构建与生产启动
 
 ```bash
@@ -43,12 +46,12 @@ npm run start
 | 路径 | 作用 |
 |------|------|
 | `src/` | 前端页面与组件；`src/catalog.ts` 打包 `data/*.json`；`src/favoritesStorage.ts` 为收藏本地缓存 |
-| `server/` | Express API、菜谱 AI；**不**再提供食材/调料「新增」与收藏文件的写接口 |
+| `server/` | Express API、菜谱 AI |
 | `shared/` | 前后端共用的类型 |
 | `data/` | 内置食材、调味料、口味、难度等 **静态** JSON（扩充列表请直接改文件后重新部署） |
 | `config/` | `app.json`、菜谱与简化用的提示词模板 |
 
-## `data/` 里 JSON 大概是啥样（示例）
+## data 里 JSON 大概是啥样（示例）
 
 以下为 **单条/结构示意**，便于改数据时对齐字段名；类型定义见 `shared/types.ts`。
 
@@ -106,17 +109,8 @@ npm run start
 - **食材/口味列表**：由前端打包的 JSON 提供；仅「生成 / 简化菜谱」走上述 API。  
 - 用户勾选与收藏均在浏览器本地完成。
 
-## 发布到 GitHub 前请注意
-
-- **必须保留进仓库**：`README.md`、源码、`package.json`、`.env.example`、`LICENSE`、`config/`、`data/` 里的内置数据（如 `*.builtin.json`、`flavors.json`、`difficulties.json`）等。  
-- **不要提交**：任何带真实 API Key 的文件（见下方「`.gitignore` 与上传」）。
-
-## `.gitignore` 与「哪些会上传」
-
-- 列表在 **`.gitignore`** 里的路径，Git **默认不会** 把它们加入提交。  
-- **没有在** `.gitignore` 里、且你已 `git add` 并提交的，都会出现在 GitHub 上。  
-- **密钥、本机环境** → 用 `.gitignore` 挡住（如 `.env.local`）；**可公开的模板** → 用 `.env.example` 提交。
-
 ## 许可
 
 本项目采用 [MIT License](LICENSE) 开源。
+
+Copyright (c) 2026 [Li Ruiying](https://www.ruiying.li/)
